@@ -1,0 +1,44 @@
+body{
+    background-image:url(a.jpg);background-size: cover;
+}
+h1
+{
+margin: 20px;
+font-size: 40px;
+    font-family:fantasy;
+    font-weight:700;
+color:yellow;
+   
+}
+a {color:black;
+    text-decoration: none;
+    display: inline;
+    padding-right: 80px;
+    font-size: 20px;
+    font-weight:700;
+   
+}
+a:hover{
+ color:white;
+}
+
+h3{
+    height: 350px;
+    width:auto;
+    background-color:gray;opacity:0.8;
+    padding: 20px;
+}
+h4{
+    color: black;
+}
+i{
+    font-size: 35px;
+    color: yellow;
+}
+
+img{
+     height: 200px;
+    width: 200px;
+    padding-left:30px;
+}
+
